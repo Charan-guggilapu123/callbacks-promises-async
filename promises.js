@@ -5,6 +5,7 @@ function fun1(id){
         },2000);
     })
 };
+console.log("123");
 const myfun = async () => {
     console.log("123");
     const result = await fun1("123");
